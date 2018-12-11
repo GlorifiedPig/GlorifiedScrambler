@@ -16,5 +16,4 @@ GlorifiedScrambler.config.SCRAMBLE_LIST = {
     { "rehearsal", 3, 250, 3 }
 }
 
-GlorifiedScrambler.config.SCRAMBLE_MIN_TIME = 15 -- The minimum amount of time after a scramble completes for the next one.
-GlorifiedScrambler.config.SCRAMBLE_MAX_TIME = 30 -- The maximum amount of time after a scramble completes for the next one.
+GlorifiedScrambler.config.SCRAMBLE_TIME = 15 -- The amount of time between scrambles.
