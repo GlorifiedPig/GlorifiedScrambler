@@ -1,5 +1,5 @@
 # GlorifiedScrambler
-A DarkRP addon which gives you awards for typing things in chat.
+A DarkRP addon which gives you rewards for typing things in chat.
 
 ![1](https://i.imgur.com/kAGlwFl.png)
 ![2](https://i.imgur.com/xFHQsbi.png)
